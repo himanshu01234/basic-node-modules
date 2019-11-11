@@ -12,7 +12,7 @@
     "bcrypt-nodejs": "0.0.3",
     "cloudinary": "^1.13.2",
     "express": "^4.16.4",
-    "mongoose": "^5.4.10",
+    "mongoose": "^5.7.5",
     "mongoose-paginate": "^5.0.3",
     "nodemon": "^1.18.10",
     "populate": "^5.0.1",
