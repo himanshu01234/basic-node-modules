@@ -1,0 +1,21 @@
+{
+  "name": "chipcode",
+  "version": "1.0.0",
+  "description": "\"node project demo\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "cloudinary": "^1.13.2",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.10",
+    "mongoose-paginate": "^5.0.3",
+    "nodemon": "^1.18.10",
+    "populate": "^5.0.1",
+    "twilio": "^3.28.0"
+  }
+}
